@@ -2,6 +2,9 @@
 
 A simple event scheduler that helps you manage and organize the events.
 
+![image](https://github.com/user-attachments/assets/d57d061f-af3c-4e87-92df-a64ad921aa78)
+
+
 ## Requirements
 
 - Scheduled events must have a name and a specific start time and duration.
